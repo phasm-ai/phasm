@@ -1,0 +1,25 @@
+{
+  "name": "@ps-bots/bugbuster",
+  "scripts": {
+    "postinstall": "genenv -o ./.genenv/index.ts -e BUGBUSTER_GITHUB_TOKEN -e BUGBUSTER_GITHUB_WEBHOOK_SECRET -e BUGBUSTER_SLACK_BOT_TOKEN -e BUGBUSTER_SLACK_SIGNING_SECRET",
+    "check:type": "tsc --noEmit",
+    "check:pslint": "ps lint",
+    "build": "ps add -y && ps build"
+  },
+  "private": true,
+  "dependencies": {
+    "@phasm/client": "workspace:*",
+    "@phasm/sdk": "workspace:*"
+  },
+  "devDependencies": {
+    "@phasm/cli": "workspace:*",
+    "@phasm/common": "workspace:*",
+    "@phasmhub/github": "workspace:*",
+    "@phasmhub/slack": "workspace:*",
+    "@psinternal/genenv": "0.0.1"
+  },
+  "psDependencies": {
+    "github": "../../integrations/github",
+    "slack": "../../integrations/slack"
+  }
+}

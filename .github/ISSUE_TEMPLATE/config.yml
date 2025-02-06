@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: phasm V12
+    url: https://github.com/phasm/v12
+    about: If you're experiencing issues when using the on premise version of phasm, please report the issue on the v12 repo.
+  - name: phasm Cloud
+    url: https://discord.gg/phasm
+    about: If you're experiencing issues when using phasm Cloud or have any question regarding phasm Cloud but you're not sure about the nature of the issue, please report the issue on our Discord Server.

@@ -1,0 +1,17 @@
+node_modules
+ps_modules
+dist
+gen
+local/data
+.DS_Store
+*.tsbuildinfo
+__snapshots__
+.ignore.me.*
+.env*
+.phasm
+.phasmhome
+.phasmhome.*
+.turbo
+.genenv/
+.genenv.*
+tilt_config.json

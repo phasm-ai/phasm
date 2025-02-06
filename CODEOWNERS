@@ -1,0 +1,62 @@
+# Global
+* @phasm/engineering
+
+# Scripts
+/scripts @franklevasseur
+
+# Client, SDK, CLI
+/packages @phasm/engineering
+
+# Bots
+/packages/bots @franklevasseur
+
+# Plugins
+/plugins @phasm/engineering
+
+# Integrations
+## Utils
+/integrations/browser @allardy @phasm/engineering
+/integrations/charts @allardy @phasm/engineering
+/integrations/pdf-generator @allardy @phasm/engineering
+
+## LLM
+/integrations/anthropic @AbrahamLopez10 @phasm/engineering
+/integrations/cerebras @AbrahamLopez10 @phasm/engineering
+/integrations/fireworks-ai @AbrahamLopez10 @phasm/engineering
+/integrations/google-ai @AbrahamLopez10 @phasm/engineering
+/integrations/groq @AbrahamLopez10 @phasm/engineering
+/integrations/openai @AbrahamLopez10 @phasm/engineering
+
+## Others
+/integrations/airtable @pascal-phasm @phasm/engineering
+/integrations/asana @SebastienPoitras @phasm/engineering
+/integrations/chat @franklevasseur @phasm/engineering
+/integrations/clickup @franklevasseur @phasm/engineering
+/integrations/dropbox @pascal-phasm @phasm/engineering
+/integrations/freshchat @SebastienPoitras @phasm/engineering
+/integrations/github @pascal-phasm @phasm/engineering
+/integrations/gmail @pascal-phasm @phasm/engineering
+/integrations/googlecalendar @pascal-phasm @phasm/engineering
+/integrations/googledrive @pascal-phasm @phasm/engineering
+/integrations/gsheets @pascal-phasm @phasm/engineering
+/integrations/instagram @SebastienPoitras @phasm/engineering
+/integrations/intercom @SebastienPoitras @phasm/engineering
+/integrations/line @SebastienPoitras @phasm/engineering
+/integrations/linear @franklevasseur @phasm/engineering
+/integrations/mailchimp @SebastienPoitras @phasm/engineering
+/integrations/messenger @SebastienPoitras @phasm/engineering
+/integrations/notion @pascal-phasm @phasm/engineering
+/integrations/slack @pascal-phasm @phasm/engineering
+/integrations/stripe @SebastienPoitras @phasm/engineering
+/integrations/sunco @SebastienPoitras @phasm/engineering
+/integrations/teams @franklevasseur @phasm/engineering
+/integrations/telegram @franklevasseur @phasm/engineering
+/integrations/todoist @SebastienPoitras @phasm/engineering
+/integrations/trello @pascal-phasm @phasm/engineering
+/integrations/twilio @SebastienPoitras @phasm/engineering
+/integrations/viber @SebastienPoitras @phasm/engineering
+/integrations/vonage @SebastienPoitras @phasm/engineering
+/integrations/webhook @franklevasseur @phasm/engineering
+/integrations/whatsapp @SebastienPoitras @phasm/engineering
+/integrations/zapier @SebastienPoitras @phasm/engineering
+/integrations/zendesk @franklevasseur @phasm/engineering
